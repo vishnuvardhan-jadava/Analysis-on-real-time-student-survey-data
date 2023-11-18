@@ -10,7 +10,7 @@ I along with my friends have worked on finding the correlation between student's
 - Step 2: Performed data cleaning 
 - Step 3: Performed data analysis
 - Step 4: Hypothesis Testing
-        - *. GPA depends on the physical activity of a student.
-        - *. Students' frequency of going to the gym depends on stress levels.
-        - *. GPA depends on the time spent on studies.
-        - *. GPA depends on who is stressed (to handle sports and studies)
+&emsp- *. GPA depends on the physical activity of a student.
+&emsp- *. Students' frequency of going to the gym depends on stress levels.
+&emsp- *. GPA depends on the time spent on studies.
+&emsp- *. GPA depends on who is stressed (to handle sports and studies)

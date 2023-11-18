@@ -6,11 +6,11 @@ The survey data contains a lot of questions about students. For example, their P
 
 I along with my friends have worked on finding correlation between student's physical activities and academic performance. 
 
-Step 1: Out of all the features, we hand picked the necessary columns that are required for our analysis. 
-Step 2: Performed data cleaning 
-Step 3: Performed data analysis
-Step 4: Hypothesis Testing
-        *. GPA depends on the physical activity of a student.
-        *. Students frequency of going to gym depends on stress levels.
-        *. GPA depends on the time spent on studies.
-        *. GPA depends on who are stressed (to handle sports and studies)
+- Step 1: Out of all the features, we hand picked the necessary columns that are required for our analysis. 
+- Step 2: Performed data cleaning 
+- Step 3: Performed data analysis
+- Step 4: Hypothesis Testing
+        - *. GPA depends on the physical activity of a student.
+        - *. Students frequency of going to gym depends on stress levels.
+        - *. GPA depends on the time spent on studies.
+        - *. GPA depends on who are stressed (to handle sports and studies)
